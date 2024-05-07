@@ -1,5 +1,5 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-## Name:ONTEDDU MANOJ G
+## Name: MANOJ G
 ## Register Number: 212222240060
 ## Aim:
 
